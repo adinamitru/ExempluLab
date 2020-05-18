@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExempluLab</string>
+    <string name="server">Server</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">Client</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="get_information">Get Info</string>
+    <string name="ip">IP</string>
+    <string name="imageview">Img</string>
+</resources>
